@@ -1,0 +1,12 @@
+.WorkTimeInfoPage {
+    padding: 0 0 var(--g-spacing-6) var(--g-spacing-6);
+}
+
+.WorkTimeInfoPage__header {
+    padding: var(--g-spacing-6) var(--g-spacing-6) var(--g-spacing-6) 0;
+}
+
+.WorkTimeInfoPage__actions {
+    display: flex;
+    gap: 16px;
+}

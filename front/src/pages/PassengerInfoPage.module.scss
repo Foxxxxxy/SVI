@@ -1,0 +1,12 @@
+.PassengerInfoPage {
+    padding: 0 0 var(--g-spacing-6) var(--g-spacing-6);
+}
+
+.PassengerInfoPage__header {
+    padding: var(--g-spacing-6) var(--g-spacing-6) var(--g-spacing-6) 0;
+}
+
+.PassengerInfoPage__actions {
+    display: flex;
+    gap: 16px;
+}

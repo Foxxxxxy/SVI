@@ -1,0 +1,29 @@
+.RequestPage {
+    padding: 0 0 var(--g-spacing-6) var(--g-spacing-6);
+}
+
+.RequestPage__header {
+    padding: var(--g-spacing-6) var(--g-spacing-6) var(--g-spacing-6) 0;
+}
+
+.RequestPage__formLeft {
+    margin-bottom: 15px;
+}
+
+.RequestPage__actions {
+    display: flex;
+    gap: 16px;
+}
+
+.RequestPage__status {
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.RequestPage__statusTitle {
+    margin-right: 8px;
+}
+
+.RequestPage__people {
+    margin-bottom: 16px;
+}
